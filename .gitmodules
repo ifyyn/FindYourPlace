@@ -1,3 +1,6 @@
 [submodule "FindYourPlace-Frontend-"]
 	path = FindYourPlace-Frontend-
 	url = https://github.com/hizkia-natanael/FindYourPlace-Frontend-.git
+[submodule "FindYourPlace-Backend"]
+	path = FindYourPlace-Backend
+	url = https://github.com/hizkia-natanael/FindYourPlace-Backend.git
